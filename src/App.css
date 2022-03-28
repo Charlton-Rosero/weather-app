@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #424242;
+  color:rgb(255, 255, 255)
+}
+.weatherCard{
+  padding:  10px;
+  height: 45vh;
+  width: 30vw;
+  border: 2px solid black;
+  color:rgb(159, 251, 247);
+  font-weight: bolder;
+  margin: 10vh 35vw;
+}
+.input{
+  padding-bottom: 20px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
